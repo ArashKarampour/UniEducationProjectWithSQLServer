@@ -13,3 +13,5 @@ Admin can also login and manage Students, Courses and everything. Admin can add,
 ![bandicam 2024-01-28 01-59-27-767](https://github.com/ArashKarampour/UniEducationProjectWithSQLServer/assets/72198577/f7942b08-cb04-4d55-9539-9f9a51755d73)
 
  This is also a view of the Tables of the database
+ 
+![bandicam 2024-01-28 01-56-34-808](https://github.com/ArashKarampour/UniEducationProjectWithSQLServer/assets/72198577/6c7bbfe6-b93d-4522-91f8-c24df0e72fa0)
