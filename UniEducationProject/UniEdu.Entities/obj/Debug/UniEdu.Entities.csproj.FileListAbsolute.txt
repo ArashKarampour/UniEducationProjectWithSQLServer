@@ -1,0 +1,6 @@
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.Entities\bin\Debug\UniEdu.Entities.dll
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.Entities\bin\Debug\UniEdu.Entities.pdb
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.Entities\obj\Debug\UniEdu.Entities.csprojAssemblyReference.cache
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.Entities\obj\Debug\UniEdu.Entities.csproj.CoreCompileInputs.cache
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.Entities\obj\Debug\UniEdu.Entities.dll
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.Entities\obj\Debug\UniEdu.Entities.pdb

@@ -1,0 +1,11 @@
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\bin\Debug\UniEdu.BLL.dll
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\bin\Debug\UniEdu.BLL.pdb
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\bin\Debug\UniEdu.DAL.dll
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\bin\Debug\UniEdu.Entities.dll
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\bin\Debug\UniEdu.DAL.pdb
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\bin\Debug\UniEdu.Entities.pdb
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\obj\Debug\UniEdu.BLL.csprojAssemblyReference.cache
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\obj\Debug\UniEdu.BLL.csproj.CoreCompileInputs.cache
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\obj\Debug\UniEdu.BLL.csproj.CopyComplete
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\obj\Debug\UniEdu.BLL.dll
+D:\Training programming\DataBaseProjectC#\UniEducationProject\UniEdu.BLL\obj\Debug\UniEdu.BLL.pdb
